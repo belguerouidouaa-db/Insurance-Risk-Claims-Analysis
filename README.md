@@ -17,7 +17,7 @@ The dashboard provides an interactive view of **policy volume, total claim amoun
 ## Dashboard Preview
 
 <p align="center">
-  <img src="assets/insurance-dashboard.png" alt="Insurance Risk and Claims Analysis Dashboard" width="100%">
+  <img src="assets /insurance-dashboard.png" alt="Insurance Risk and Claims Analysis Dashboard" width="100%">
 </p>
 
 ---
